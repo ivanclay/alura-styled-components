@@ -11,7 +11,12 @@ This project is in Portuguese because the training proposal was to style an exis
 - [x] Create project alura-styled-compoents
 - [x] Create README
 - [ ] Install dependencies
-    - [ ] styled-components
+    - [x] styled-components
+- [x] Create GlobalStyle Styled Component and reset css
+- [x] Create Header Styled Component
+- [x] Create Logo Styled Component
+- [x] Create Buttom Styled Component
+- [ ] --
 
 
 ## React version (16.13.1)

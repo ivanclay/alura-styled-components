@@ -8,12 +8,8 @@ const Cabecalho = () => {
     <StyledHeader>
       <Logo src={bank_logo} alt="Logo Smart Bank" />
       <div>
-        <a className="btn-secundario" href="https://google.com">
-          Ajuda
-        </a>
-        <a className="btn-primario" href="https://google.com">
-          Sair
-        </a>
+        <BtnCabecalho primary href="https://google.com">Ajuda</BtnCabecalho>
+        <BtnCabecalho href="https://google.com">Sair</BtnCabecalho>
       </div>
     </StyledHeader>
   );
@@ -31,6 +27,17 @@ const StyledHeader = styled.nav`
 const Logo = styled.img`
   height: 50px;
   width: 50px;
+`;
+
+const BtnCabecalho = styled.a`
+  text-align: center;
+  border-radius: 3px;
+  padding: 5px 20px;
+  margin: 0 10px;
+  font-weight: 600;
+  border: 2px solid white;
+  background: ${(props)=> props.primary ? "white" : corPrimaria };
+  color: ${(props)=> props.primary ? corPrimaria : "white" };
 `;
 
 
