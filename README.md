@@ -11,7 +11,7 @@ This project is in Portuguese because the training proposal was to style an exis
 - [x] Create project alura-styled-compoents
 - [x] Create README
 - [ ] Install dependencies
-    - [ ] ---
+    - [ ] styled-components
 
 
 ## React version (16.13.1)
