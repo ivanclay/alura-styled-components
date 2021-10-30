@@ -16,7 +16,9 @@ This project is in Portuguese because the training proposal was to style an exis
 - [x] Create Header Styled Component
 - [x] Create Logo Styled Component
 - [x] Create Buttom Styled Component
-- [ ] --
+- [x] Create 'EXTRATO' component
+- [x] Create 'ITEMS' component
+- [x] Create 'ITEM' component
 
 
 ## React version (16.13.1)

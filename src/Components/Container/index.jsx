@@ -3,6 +3,7 @@ import styled from "styled-components";
 
 import Titulo from "../Titulo";
 import Conta from "../Conta";
+import Extrato from '../Extrato';
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default () => {
@@ -11,6 +12,7 @@ export default () => {
       <Titulo>Olá Fulano!</Titulo>
       <Conteudo>
         <Conta />
+        <Extrato />
       </Conteudo>
     </Container>
   );
