@@ -20,6 +20,7 @@ This project is in Portuguese because the training proposal was to style an exis
 - [x] Create 'ITEMS' component
 - [x] Create 'ITEM' component
 - [x] Create ImageFilter function
+- [x] Create theme styles
 
 
 ## React version (16.13.1)
