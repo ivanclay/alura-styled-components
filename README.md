@@ -19,6 +19,7 @@ This project is in Portuguese because the training proposal was to style an exis
 - [x] Create 'EXTRATO' component
 - [x] Create 'ITEMS' component
 - [x] Create 'ITEM' component
+- [x] Create ImageFilter function
 
 
 ## React version (16.13.1)
